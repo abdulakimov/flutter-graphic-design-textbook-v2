@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1059096144965",
+    "project_id": "graphic-design-c3285",
+    "storage_bucket": "graphic-design-c3285.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059096144965:android:813526f3aae1801b26872c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_gd_textbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059096144965-uo2qpep2oj3p70u962ai3svgnmfid3uq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_gd_textbook",
+            "certificate_hash": "55802392c2729d6a90956e912906b432e52ce581"
+          }
+        },
+        {
+          "client_id": "1059096144965-vbur6jpus1e3tjqjg0cdmpiju8m7l3rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwjBUp5dCC6VpkYluUYOx7yakePD0M-Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059096144965-gnpaijfc59uol7d0g3sjjtumn0hjdcfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
